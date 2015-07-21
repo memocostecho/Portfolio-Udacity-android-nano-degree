@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+
+    <string name="app_1_name">Popular movies stage 1</string>
+    <string name="app_2_name">Popular movies stage 2</string>
+    <string name="app_3_name">Super duo!</string>
+    <string name="app_4_name">Build it Bigger</string>
+    <string name="app_5_name">Material design app</string>
+
+</resources>
